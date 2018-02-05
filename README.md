@@ -1,2 +1,3 @@
 # JavaScript-Snake-Game
-JavaScript source code for the Snake game
+JavaScript Snake game sources 
+http://zetcode.com/javascript/snake/
