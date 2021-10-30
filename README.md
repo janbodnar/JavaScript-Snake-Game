@@ -1,5 +1,1 @@
-# JavaScript-Snake-Game
-
-JavaScript Snake game sources 
-http://zetcode.com/javascript/snake/
-
+It's like regular snake... but cursed and more Snek!
